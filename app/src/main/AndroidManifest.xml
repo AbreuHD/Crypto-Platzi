@@ -13,14 +13,14 @@
         android:theme="@style/Theme.CryptoPlatzy"
         tools:targetApi="31">
         <activity
-            android:name=".activity_trader"
+            android:name=".ui.activity.activity_trader"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".activity_login"
+            android:name=".ui.activity.activity_login"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
