@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "752397451397",
+    "project_id": "cryptoplatzi-ddb4e",
+    "storage_bucket": "cryptoplatzi-ddb4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752397451397:android:043178f1382bcb8d1c29ec",
+        "android_client_info": {
+          "package_name": "com.abreuhd.cryptoplatzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752397451397-eb56trrk2q43jb4qlvd2v0bt615e77qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqNIgWTFIhMgll56zklotdpi45vlJeC7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752397451397-eb56trrk2q43jb4qlvd2v0bt615e77qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

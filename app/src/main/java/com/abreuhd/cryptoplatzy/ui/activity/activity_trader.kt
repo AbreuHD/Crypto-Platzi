@@ -1,13 +1,13 @@
-package com.abreuhd.cryptoplatzy
+package com.abreuhd.cryptoplatzy.ui.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.abreuhd.cryptoplatzy.R
 import com.google.android.material.snackbar.Snackbar
 import kotlinx.android.synthetic.main.activity_trader.*
 
 class activity_trader : AppCompatActivity() {
-
-
+//a
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_trader)
